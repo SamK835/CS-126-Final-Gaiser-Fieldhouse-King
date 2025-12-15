@@ -30,4 +30,4 @@ ls | ws -l
 _______________________________________________________________________________
 
 ## Known Limitations
-The only known limitation as of right now is that the shell will not run outside of a linux environment, this means that windows terminal or WSL in powershlls
+The only known limitation as of right now is that the shell will not run outside of a linux environment, this means that windows terminal or WSL in powershell
